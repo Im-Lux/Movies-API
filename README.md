@@ -1,6 +1,6 @@
 # TMDB LUX MOVIES
 
-Frontend application displaying movies, TV shows and much more.
+Frontend responsive application displaying movies, TV shows and much more.
 
 > [See website](https://tmdb-luxmovies.web.app/)
 
